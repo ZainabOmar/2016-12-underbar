@@ -204,6 +204,7 @@
       if(!iterator(element)){
         start = false ;
       }
+      console.log("hi")
       return start ;
          
     }, true)
